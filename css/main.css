@@ -5,31 +5,36 @@
 }
 
 .features {
-	border: solid 1px #ccc;
-	margin-top: 38px;
-	padding-left: 28px;
-	padding-bottom: 20px;
+    border: solid 1px #ccc;
+	margin-top: 35px;
+	padding-left: 30px;
+    padding-right: 200px;
+	padding-bottom: 55px;
 	max-width: 376px;
-	font-size: 1.17em;
+	font-size: 1em;
 }
 .mug-png {
 	margin-top: 20px;
     height: 376px;
 }
 
-p {
-    font-weight: lighter;
+.mainText {
+	font-weight: lighter;
 	font-size: 1.2em;
 }
 
+/*.mainTitle {
+    margin-top: 55px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-top: 0px;
+    padding-left: 40px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+	font-weight: 700;
+}*/
 h1 {
 	margin-top: 45px;
 	font-size: 3.5em;
-}
-
-h2 {
-	color: #f07c17;
-	font-weight: bold;
-	font-size: 25px;
-	padding-bottom: 20px;
 }
