@@ -7,10 +7,7 @@
 .features {
     border: solid 1px #ccc;
 	margin-top: 35px;
-	padding-top: 0px;
-	padding-left: 30px;
-    padding-right: 200px;
-	padding-bottom: 55px;
+    padding: 0px 200px 55px 30px;
 	max-width: 376px;
 	font-size: 1em;
 }
@@ -20,22 +17,12 @@
 }
 
 .mainText {
-	font-weight: lighter;
-	font-size: 1.2em;
+    margin-top: 40px;
+    font-weight: lighter;
+	font-size: 1em;
 }
-
-/*.mainTitle {
-    margin-top: 55px;
-    margin-bottom: 15px;
-    margin-right: 5px;
-    margin-left: 5px;
-    padding-top: 0px;
-    padding-left: 40px;
-    padding-right: 0px;
-    padding-bottom: 0px;
-	font-weight: 700;
-}*/
-h1 {
+.header {
 	margin-top: 45px;
+    margin-bottom: 10px;
 	font-size: 3.5em;
 }
